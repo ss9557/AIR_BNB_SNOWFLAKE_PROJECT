@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# IDE configuration
+.vscode/
+
+# dbt artifacts
+target/
+dbt_packages/
+logs/
+.user.yml
